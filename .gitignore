@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated reports
+reports/*.txt
+
+# Generated backups
+backups/*
+
+# Restored test data
+restore_data/
+
+# Virtual environments
+venv/
+.env
