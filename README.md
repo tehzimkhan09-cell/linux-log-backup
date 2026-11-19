@@ -88,7 +88,7 @@ The project was tested successfully:
 ### 02 Backup Creation
 ![02 backup creation](screenshots/02-backup-creation.png)
 
-###03 Backup verification
+### 03 Backup verification
 ![03 backup verification](screenshots/03-backup-verification.png)
 
 ### 04 Backup Restoration
